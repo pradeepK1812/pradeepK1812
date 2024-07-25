@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradeepK1812
-- 👀 I’m interested in AI , ML , python , Linux 2, cloud
+- 👀 I’m interested in python, Data Science, AI , ML , Linux , cloud
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on python, AI, cloud
 - 📫 How to reach me : pradeep.kalkhundiya@gmail.com
