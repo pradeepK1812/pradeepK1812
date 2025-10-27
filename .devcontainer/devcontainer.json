@@ -1,6 +1,6 @@
 {
-  "name": "Rust Dev Environment",
-  "image": "mcr.microsoft.com/devcontainers/rust:latest",
+  "name": "Rust Dev Environment (with Docker)",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
   "features": {
     "ghcr.io/devcontainers/features/rust:1": {},
     "ghcr.io/devcontainers/features/git:1": {},
