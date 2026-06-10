@@ -14,9 +14,9 @@
 - MLOps Fundamentals
 
 🔨 Recent Projects:
-- Audience Intelligence System (Transformer-based Emotion Analysis)
-- Neural Network Implementations from Scratch
-- Machine Learning & Deep Learning Practice Projects
+-Audience Intelligence System (Transformer-based Emotion Analysis)
+- Neural Networks from Scratch in PyTorch
+- Linear Regression and Classification Models
 
 🤝 Open to collaborate on:
 - Python
