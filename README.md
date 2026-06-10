@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @pradeepK1812
-- 👀 I’m interested in python, Data Science, AI , ML , Linux , cloud
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on python, AI, cloud
-- 📫 How to reach me : pradeep.kalkhundiya@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+👋 Hi, I'm Pradeep
+
+💻 Software Professional with strong interest in Python, AI/ML, Linux, and Cloud Technologies
+
+🚀 Currently building projects in:
+- Machine Learning
+- Deep Learning with PyTorch
+- Transformer Architectures
+- AI Applications
+
+🌱 Currently learning:
+- Neural Networks
+- Transformers & LLMs
+- MLOps Fundamentals
+
+🔨 Recent Projects:
+- Audience Intelligence System (Transformer-based Emotion Analysis)
+- Neural Network Implementations from Scratch
+- Machine Learning & Deep Learning Practice Projects
+
+🤝 Open to collaborate on:
+- Python
+- AI/ML
+- Open Source Projects
+- Cloud Technologies
+
+📫 Reach me:
+pradeep.kalkhundiya@gmail.com
+
+⚡ Fun fact:
+I prefer implementing AI/ML concepts from scratch before using high-level frameworks.
 
 <!---
 pradeepK1812/pradeepK1812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
