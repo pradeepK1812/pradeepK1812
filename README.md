@@ -9,8 +9,8 @@
 - AI Applications
 
 🌱 Currently learning:
-- Neural Networks
-- Transformers & LLMs
+- Advanced Transformer Architectures
+- LLM Fundamentals
 - MLOps Fundamentals
 
 🔨 Recent Projects:
